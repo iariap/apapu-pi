@@ -7,3 +7,5 @@ Debe existir un método que genere un reporte con el total de paquetes transport
 Se pide:
 + Programar en Python las clases y responsabilidades del sistema, crear los testeos unitarios que consideren necesarios.
 + No utilizar ningún framework en la solución (mantener una solución sencilla).
+
+Para correr los tests ejecutar: `python -m unittest`
